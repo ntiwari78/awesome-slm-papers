@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Papers](https://img.shields.io/badge/papers-140%2B-orange)
 ![Last Updated](https://img.shields.io/badge/updated-July%202026-purple)
 
@@ -342,18 +342,18 @@ Found a paper that belongs here? PRs are very welcome.
 If this list saved you a literature review, a ⭐ helps others find it.
 
 ## 📖 Citation
- 
+
 ```bibtex
 @misc{awesome-slm-papers,
-  title  = {Awesome SLM Papers: A Curated Timeline of Small Language Model Research, 2022-2026},
+  title  = {Awesome SLM Papers: A Curated Timeline of Small Language Model Research, 1987-2026},
   author = {Tiwari, Niraj},
   year   = {2026},
   url    = {https://github.com/ntiwari78/awesome-slm-papers}
 }
 ```
- 
+
 ## License
- 
+
 [MIT](LICENSE) © 2026 ntiwari78. Take it, fork it, translate it, teach with it.
 
 ---
