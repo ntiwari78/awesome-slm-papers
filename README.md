@@ -342,19 +342,19 @@ Found a paper that belongs here? PRs are very welcome.
 If this list saved you a literature review, a ⭐ helps others find it.
 
 ## 📖 Citation
-
+ 
 ```bibtex
 @misc{awesome-slm-papers,
-  title  = {Awesome SLM Papers: A Curated Timeline of Small Language Model Research, 1987-2026},
+  title  = {Awesome SLM Papers: A Curated Timeline of Small Language Model Research, 2022-2026},
   author = {Tiwari, Niraj},
   year   = {2026},
-  url    = {https://github.com/ntiwari78/awesome-slm-papers/}
+  url    = {https://github.com/ntiwari78/awesome-slm-papers}
 }
 ```
-
+ 
 ## License
-
-[CC0 1.0 Universal](LICENSE). Take it, fork it, translate it, teach with it.
+ 
+[MIT](LICENSE) © 2026 ntiwari78. Take it, fork it, translate it, teach with it.
 
 ---
 
