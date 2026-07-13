@@ -348,7 +348,7 @@ If this list saved you a literature review, a ⭐ helps others find it.
   title  = {Awesome SLM Papers: A Curated Timeline of Small Language Model Research, 1987-2026},
   author = {Tiwari, Niraj},
   year   = {2026},
-  url    = {https://github.com/nirajkumar/awesome-slm-papers}
+  url    = {https://github.com/ntiwari78/awesome-slm-papers/}
 }
 ```
 
