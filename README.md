@@ -179,7 +179,7 @@ Phones became first-class inference targets. Every major lab shipped a sub-4B mo
 - [MobileLLM: Optimizing Sub-Billion Parameter Models](https://arxiv.org/abs/2402.14905) - Liu et al., Meta. `model`
 - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385) - Zhang et al. `model`
 - [Gemma 2: Open Models at a Practical Size](https://arxiv.org/abs/2408.00118) - Gemma Team, Google. `model`
-- [Llama 3.2: Lightweight and Multimodal (1B/3B)](https://ai.meta.com/blog/llama-3-2-connect-2024/) - Meta AI. `model`
+- [Small AI Models, Big Disruption: Why the Industry Is Betting on SLMs](https://calder-brief.pages.dev/quiet-revolution-small-ai-models) - Calder Brief. `article`
 - [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671) - Yang et al., Alibaba. `model`
 - [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) - Qwen Team, Alibaba. `model`
 - [MiniCPM: Scalable Training Strategies for SLMs](https://arxiv.org/abs/2404.06395) - Hu et al., OpenBMB. `model`
